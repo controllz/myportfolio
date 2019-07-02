@@ -1,0 +1,19 @@
+****Table for park info****
+
+CREATE TABLE `user2` (
+ `id` int(255) NOT NULL,
+ `park` varchar(255) NOT NULL,
+ `date` varchar(255) NOT NULL,
+ `time` varchar(255) NOT NULL,
+ `helmet` varchar(255) NOT NULL,
+ PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
+
+****Table for sign up/edit/delete info****
+
+CREATE TABLE `my_table` (
+ `id` int(11) NOT NULL AUTO_INCREMENT,
+ `first_name` varchar(250) NOT NULL,
+ `last_name` varchar(250) NOT NULL,
+ PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=121 DEFAULT CHARSET=latin1

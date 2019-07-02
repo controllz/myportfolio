@@ -1,0 +1,37 @@
+Here is your CREATE TABLE MySql for phpmyadmin. In order for this site to continue working for use as a porfolio piece, you will need to paste this into phpmyadmin and update your database connection info located in functions.php & server.php.
+
+If you ever have questions about it in the future, you can hit me up anytime @
+
+jbutts@knights.ucf.edu
+
+-OR-
+
+plush1060@gmail.com
+
+-OR-
+
+772-214-8101
+
+*******
+
+
+CREATE TABLE `comments` (
+ `id` int(11) NOT NULL AUTO_INCREMENT,
+ `name` varchar(255) NOT NULL,
+ `comment` text NOT NULL,
+ PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=71 DEFAULT CHARSET=latin1
+
+
+
+*******
+
+
+CREATE TABLE `users` (
+ `id` int(11) NOT NULL AUTO_INCREMENT,
+ `username` varchar(100) NOT NULL,
+ `email` varchar(100) NOT NULL,
+ `user_type` varchar(20) NOT NULL,
+ `password` varchar(100) NOT NULL,
+ PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=latin1

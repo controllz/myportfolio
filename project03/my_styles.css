@@ -1,0 +1,84 @@
+
+#menu {
+     text-align: center;
+}
+ #forms {
+}
+ table {
+     margin: auto;
+     width: 70%;
+     border-collapse: collapse;
+     background: black;
+     opacity: 0.8;
+}
+ table,td, th {
+     border: 1px solid white;
+     padding: 5px;
+}
+ th {
+     text-align: center;
+}
+ #btn_add {
+     border: solid green;
+}
+ #btn_delete {
+     border: solid red;
+}
+ #first_name {
+     border: solid green;
+}
+ #last_name {
+     border: solid green;
+}
+ img {
+     max-width: 100%;
+     height: auto;
+}
+/* VIDEO STYLES---Centered texts in each section * --------------------------------------- */
+ .section{
+     text-align:center;
+}
+ #myVideo{
+     position: absolute;
+     z-index: 4;
+     right: 0;
+     bottom: 0;
+     top:0;
+     right:0;
+     width: 100%;
+     height: 100%;
+     background-size: 100% 100%;
+     background-color: black;
+    /* in case the video doesn't fit the whole page*/
+     background-image: 
+    /* our video */
+    ;
+     background-position: center center;
+     background-size: contain;
+     object-fit: cover;
+    /*cover video background */
+}
+/* Layer with position absolute in order to have it over the video * --------------------------------------- */
+ #section1 .layer{
+     position: absolute;
+     z-index: 5;
+     width: 100%;
+     left: 0;
+     top: 43%;
+     height: 100%;
+}
+ #section1 h1{
+     color:#fff;
+}
+ #infoMenu li a{
+     color: #fff;
+}
+ h3 {
+     color: white;
+     font-weight: bold;
+}
+ #result {
+     background-color: black;
+     opacity: 0.8;
+}
+ 
