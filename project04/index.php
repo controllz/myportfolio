@@ -75,7 +75,7 @@
 		</div>
 	</div>
 	<!--dog API-->
-		<div id="results"><img id='imageWrapper' src="https://dog.ceo/api/img/beagle/n02088364_12178.jpg" /></div>
+		<div id="results"><img id='imageWrapper' src="https://media2.giphy.com/media/Z9tvqoD1SEQcomTVaK/giphy-downsized.gif?cid=e1bb72ff6654cbdd5bcc657309c0e4adefbe9c58d0ed1dd7&rid=giphy-downsized.gif" /></div>
 		<div class="container">
 
 			<div class="row">
@@ -107,7 +107,7 @@
 	<!--comments-->
 	
 	<div class="wrapper">
-	<h1>Like the app? Tell us what you think!</h1>
+	<h1>Click one of the buttons for a random pet. <br>Like the app? Tell us what you think!</h1>
   	<?php echo $comments; ?>
   	<form class="comment_form">
       <div>

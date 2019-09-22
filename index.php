@@ -19,7 +19,7 @@
       <!-- CSS CDN's-->
       <link href="https://fonts.googleapis.com/css?family=Federo" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Cabin+Sketch" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Cute+Font" rel="stylesheet">
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link href="css/materialize.css" type="text/css" rel="stylesheet"/>
@@ -63,9 +63,8 @@
       <div id="index-banner" class="parallax-container">
          <div class="section no-pad-bot">
             <div class="container">
-               <br>
-               <div class="logo">
                   <div class="block animatable moveUp">
+               <div class="logo">
                      <img src="img/logosmall.png" alt="img/logosmall.png" class="responsive">
                   </div>
                </div>
@@ -86,47 +85,26 @@
                   </div>
                </div>
                <div class="col s12 center">
-                  <div class="block animatable bounceInLeft">
-                     <h1>WEB DESIGN IS ABOUT<br>INNOVATION AND EXPERIMENTATION</h1>
-                     <br>
-                  </div>
-                  <div class="block animatable bounceInRight">
-                     <h4>- AS OF DECEMBER 2018, THERE IS APPROXIMATELY 1.94 BILLION WEBSITES IN THE WORLD -<br><br>- LUCKILY, THERE'S MILLIONS OF WAYS TO MAKE THEM UNIQUE -<br><br>- MY NAME IS JASON. WELCOME TO MY PORTFOLIO -</h4>
-                     <br>
-                  </div>
-               </div>
-               <!--intro
-                  <div class="block animatable bounceInRight">
-                     <h4>Here, you can view some of my current projects, </h4>
-                  </div>
-                  <div class="block animatable bounceInLeft">
-                     <h4>some of my past projects,
-                     </h4>
-                  </div>
-                  <div class="block animatable bounceInRight">
-                     <h4>and even some of my favorite
-                        projects from college.
-                     </h4>
-                  </div>
-                  <br>
-                  <br>
-                  <br>
                   <div class="block animatable fadeIn">
-                     <h4>ENJOY</h4>
+                     <h1>WEB DESIGN</h1> 
+                     <h2>IS ABOUT INNOVATION</h2>
                   </div>
-                  -->
-               <!--FADE SCROLL-->
-               <br>
-               <img src="img/ucf.jpg" alt="img/ucf1.jpg" class="responsive-img">
-               <!--FADE SCROLL-->
-               <br>
-               <div id="quotes">
-                  <div class="block animatable fadeInUp">
-                     <h4>“INTUITIVE DESIGN IS HOW WE GIVE THE USER NEW SUPER POWERS.”</h4>
-                     <h6><b>― Jared Spool</b></h6>
-                     <h6><b>Founder:</b> <i>User Interface Engineering School, </i>the largest usability research organization in the world.</h6>
+                  <div class="block animatable fadeIn">
+                     <h4>- AS OF DECEMBER 2018, THERE WAS AN ESTIMATED 1.94 BILLION WEBSITES IN THE WORLD -</h4>
+                   </div>
+                    <div class="block animatable fadeIn">
+
+                <h4>- LUCKILY, THERE'S MILLIONS OF WAYS TO MAKE THEM UNIQUE -</h4>
+                   </div>
+                                       <div class="block animatable fadeIn">
+              <img src="img/menc.jpg" alt="ncme" class="circle responsive-img"> <!-- notice the "circle" class --></div>
+                                       <div class="block animatable fadeIn">
+
+                    <h4>- MY NAME IS JASON. WELCOME TO MY PORTFOLIO -</h4>
                   </div>
                </div>
+              <!--NEED NEW CONTENT HERE-->
+               
             </div>
          </div>
       </div>
@@ -138,7 +116,7 @@
                      <img src="img/mas.png" alt="img/mas.png" class="responsive">
                   </div>
                   <div class="block animatable bounceInLeft">
-                     <h5 class="center">LEAVE A LASTING IMPRESSION</h5>
+                     <h5>LEAVE A LASTING IMPRESSION</h5>
                   </div>
                </div>
             </div>
@@ -158,77 +136,109 @@
                      </div>
                   </div>
                </div>
-               <div class="block animatable bounceInLeft">
+               <div class="block animatable fadeIn">
                   <h4>THE TOOLS OF MY TRADE</h4>
                </div>
                <br>
                <br>
-               <div class="col s12 m2">
+               <div class="col s12 m3">
                   <div class="language">
                      <div class="icon-block">
-                        <div class="block animatable bounceInLeft">
+                        <div class="block animatable fadeIN">
                            <img src="img/html.png" alt="img/html2.png">
-                           <h5 class="center">HTML</h5>
+                           <h5>HTML</h5>
                            <br>
                         </div>
                      </div>
                   </div>
                </div>
-               <div class="col s12 m2">
+               <div class="col s12 m3">
                   <div class="language">
                      <div class="icon-block">
-                        <div class="block animatable bounceInRight">
+                        <div class="block animatable fadeIN">
                            <img src="img/css.png" alt="img/css2.png">
-                           <h5 class="center">CSS</h5>
+                           <h5>CSS</h5>
                            <br>
                         </div>
                      </div>
                   </div>
                </div>
-               <div class="col s12 m2">
+               <div class="col s12 m3">
                   <div class="language">
                      <div class="icon-block">
-                        <div class="block animatable bounceInLeft">
+                        <div class="block animatable fadeIN">
                            <img src="img/js.png" alt="img/js2.png">
-                           <h5 class="center">JAVASCRIPT</h5>
+                           <h5>JAVASCRIPT</h5>
                            <br>
                         </div>
                      </div>
                   </div>
                </div>
-               <div class="col s12 m2">
+               <div class="col s12 m3">
                   <div class="language">
                      <div class="icon-block">
-                        <div class="block animatable bounceInRight">
+                        <div class="block animatable fadeIN">
                            <img src="img/php.png" alt="img/php2.png">
-                           <h5 class="center">PHP</h5>
+                           <h5>PHP</h5>
                            <br>
                         </div>
                      </div>
                   </div>
                </div>
-               <div class="col s12 m2">
+                <br>
+                <br>
+                <br>
+                 <div class="col s12 m3">
                   <div class="language">
                      <div class="icon-block">
-                        <div class="block animatable bounceInLeft">
+                        <div class="block animatable fadeIN">
+                           <img src="img/mysql.png" alt="img/mysql2.png">
+                           <h5>MySQL</h5>
+                           <br>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col s12 m3">
+                  <div class="language">
+                     <div class="icon-block">
+                        <div class="block animatable fadeIN">
                            <img src="img/ajax.png" alt="img/ajax2.png">
-                           <h5 class="center">AJAX</h5>
+                           <h5>AJAX</h5>
                            <br>
                         </div>
                      </div>
                   </div>
                </div>
-               <div class="col s12 m2">
+                 <div class="col s12 m3">
                   <div class="language">
                      <div class="icon-block">
-                        <div class="block animatable bounceInRight">
+                        <div class="block animatable fadeIN">
+                           <img src="img/materialize.png" alt="img/mat2.png">
+                           <h5>Materialize</h5>
+                           <br>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col s12 m3">
+                  <div class="language">
+                     <div class="icon-block">
+                        <div class="block animatable fadeIN">
                            <img src="img/json.png" alt="img/json2.png">
-                           <h5 class="center">JSON</h5>
+                           <h5>JSON</h5>
                            <br>
                            <br>
                            <br>
                         </div>
                      </div>
+                  </div>
+               </div>
+                <div id="quotes">
+                  <div class="block animatable fadeInUp">
+                     <h4>“INTUITIVE DESIGN IS HOW WE GIVE THE USER NEW SUPER POWERS.”</h4>
+                     <h6><b>― Jared Spool</b></h6>
+                     <h6><b>Founder:</b> <i>User Interface Engineering School, </i>the largest usability research organization in the world.</h6>
                   </div>
                </div>
                <div class="col s12 m12">
@@ -284,7 +294,7 @@
                      <img src="img/cap.png" alt="img/cap.png" class="responsive">
                   </div>
                   <div class="block animatable bounceInLeft">
-                     <h5 class="center">STAND OUT FROM THE REST</h5>
+                     <h5>STAND OUT FROM THE REST</h5>
                   </div>
                </div>
             </div>
@@ -312,19 +322,66 @@
                                  </div>
                               </div>
                            </div>
+                         </div>
+                         <div class="col s12 m12">
                            <div class="block animatable fadeInUp">
-                              <h4>PAST WORK</h4>
+                               
+                               <!--cards-->
+                               
+                              <h4>CURRENT WORK IN PROGRESS</h4>
                            </div>
+                         </div>
                            <div class="row">
                               <div class="col s12 m6">
                                  <div class="card">
                                     <div class="card-image waves-effect waves-block waves-light">
                                        <div class="block animatable bounceInLeft">
-                                          <img class="activator" src="img/euthumb.jpg" alt="img/euthumb1.jpg">
+                                          <img class="activator" src="img/flickrthumb.jpg" alt="img/flickr1.jpg">
                                        </div>
                                     </div>
                                     <div class="card-content">
-                                       <span class="card-title activator grey-text text-darken-4">EUFINITE<i class="material-icons right">more_vert</i></span>
+                                       <span class="card-title activator grey-text text-darken-4"><p class="flow-text">Flickr API Image Search</p><i class="material-icons right">more_vert</i></span>
+                                    </div>
+                                    <div class="card-reveal">
+                                       <span class="card-title grey-text text-darken-4">Flickr API Image Search<i class="material-icons right">close</i></span>
+                                       <p class="flow-text">This application uses the Flickr API, JavaScript, and JSON to fetch 25 images from the Flickr image database based on the criteria typed into the search box.</p>
+                                       <a class="blue-text" href="flickr/index.html" target="_blank">CLICK HERE TO CHECK IT OUT!</a>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col s12 m6">
+                                 <div class="card">
+                                    <div class="card-image waves-effect waves-block waves-light">
+                                       <div class="block animatable bounceInRight">
+                                          <img class="activator" src="img/fiber.jpg" alt="img/fiber1.jpg">
+                                       </div>
+                                    </div>
+                                    <div class="card-content">
+                                       <span class="card-title activator grey-text text-darken-4"><p class="flow-text">The Health Quiz</p><i class="material-icons right">more_vert</i></span>
+                                    </div>
+                                    <div class="card-reveal">
+                                       <span class="card-title grey-text text-darken-4">The Health Quiz<i class="material-icons right">close</i></span>
+                                       <p class="flow-text">This health quiz is based on a popular article which teaches about some of the best habits, and best things you can eat to pursue a healthful lifestyle. The quiz utilizes HTML, CSS, and JavaScript.
+                                       </p>
+                                       <a class="blue-text" href="weightlossquiz/index.html" target="_blank">CLICK HERE TO CHECK IT OUT!</a>
+                                    </div>
+                                 </div>
+                              </div>
+                                <div class="col s12 m12">
+                           <div class="block animatable fadeInUp">
+                             <h4>PAST WORK</h4>
+                                    </div>
+                               </div>
+                               <div class="row">
+                              <div class="col s12 m6">
+                                 <div class="card">
+                                    <div class="card-image waves-effect waves-block waves-light">
+                                       <div class="block animatable bounceInLeft">
+                                          <img class="activator" src="img/eusite.jpg" alt="img/euf1.jpg">
+                                       </div>
+                                    </div>
+                                    <div class="card-content">
+                                       <span class="card-title activator grey-text text-darken-4"><p class="flow-text">The Eufinite App</p><i class="material-icons right">more_vert</i></span>
                                     </div>
                                     <div class="card-reveal">
                                        <span class="card-title grey-text text-darken-4">EUFINITE<i class="material-icons right">close</i></span>
@@ -337,15 +394,15 @@
                                  <div class="card">
                                     <div class="card-image waves-effect waves-block waves-light">
                                        <div class="block animatable bounceInRight">
-                                          <img class="activator" src="img/fhw_logo.jpg" alt="img/fhw_logo1.jpg">
+                                          <img class="activator" src="img/ride.jpg" alt="img/ride1.jpg">
                                        </div>
                                     </div>
                                     <div class="card-content">
-                                       <span class="card-title activator grey-text text-darken-4">Fidelity Home Watch<i class="material-icons right">more_vert</i></span>
+                                       <span class="card-title activator grey-text text-darken-4"><p class="flow-text">Fidelity Home Watch</p><i class="material-icons right">more_vert</i></span>
                                     </div>
                                     <div class="card-reveal">
-                                       <span class="card-title grey-text text-darken-4">Fidelity Homewatch<i class="material-icons right">close</i></span>
-                                       <p class="flow-text">Fidelity Home Watch is a Naples based business that will look over your property while out of town. The site is built on the Materialize framework and utilizes HTML5, CSS3, and jQuery.
+                                       <span class="card-title grey-text text-darken-4">Fidelity Home Watch<i class="material-icons right">close</i></span>
+                                       <p class="flow-text">Fidelity Home Watch is a Naples based business that will look over your property while out of town. The site is built on the Materialize framework and utilizes HTML5, CSS3, PHP, and jQuery.
                                        </p>
                                        <a class="blue-text" href="http://www.fidelityhomewatch.com" target="_blank">CLICK HERE TO CHECK IT OUT!</a>
                                     </div>
@@ -356,11 +413,11 @@
                                     <div class="card">
                                        <div class="card-image waves-effect waves-block waves-light">
                                           <div class="block animatable bounceInLeft">
-                                             <img class="activator" src="img/sk81.jpg" alt="img/altsk8.jpg">
+                                             <img class="activator" src="img/skate.jpg" alt="img/altskate1.jpg">
                                           </div>
                                        </div>
                                        <div class="card-content">
-                                          <span class="card-title activator grey-text text-darken-4">Sk8 your St8<i class="material-icons right">more_vert</i></span>
+                                          <span class="card-title activator grey-text text-darken-4"><p class="flow-text">Sk8 Your St8</p><i class="material-icons right">more_vert</i></span>
                                        </div>
                                        <div class="card-reveal">
                                           <span class="card-title grey-text text-darken-4">Sk8yourSt8<i class="material-icons right">close</i></span>
@@ -373,11 +430,11 @@
                                     <div class="card">
                                        <div class="card-image waves-effect waves-block waves-light">
                                           <div class="block animatable bounceInRight">
-                                             <img class="activator" src="img/bark1.jpg" alt="img/barkalt.jpg">
+                                             <img class="activator" src="img/bark.jpg" alt="img/barkalt.jpg">
                                           </div>
                                        </div>
                                        <div class="card-content">
-                                          <span class="card-title activator grey-text text-darken-4">The Barkner App<i class="material-icons right">more_vert</i></span>
+                                          <span class="card-title activator grey-text text-darken-4"><p class="flow-text">The Barker App</p><i class="material-icons right">more_vert</i></span>
                                        </div>
                                        <div class="card-reveal">
                                           <span class="card-title grey-text text-darken-4">Barkner<i class="material-icons right">close</i></span>
@@ -741,11 +798,11 @@
          <div class="section no-pad-bot">
             <div class="container">
                <div class="logo">
-                  <div class="block animatable bounceInRight">
+                 <div class="block animatable bounceInRight">
                      <img src="img/now.png" alt="img/now.png" class="responsive">
                   </div>
                   <div class="block animatable bounceInLeft">
-                     <h5 class="center">LET'S CREATE SOMETHING GREAT</h5>
+                     <h5>LET'S CREATE SOMETHING GREAT</h5>
                   </div>
                </div>
             </div>
@@ -757,7 +814,6 @@
          </div>
       </div>
       <footer class="black">
-         <div class="container">
             <div class="row">
                <div class="col s12 m12">
                   <div class="language">
@@ -765,8 +821,32 @@
                      </div>
                   </div>
                </div>
+                <div class="col s12 s12">
+                  <div class="logo">
+                <h4 class="amber lighten-1 black-text">LET'S CONNECT</h4>
+         <!--social-->
+               <a href="https://www.linkedin.com/in/jasonrbutts/" target="_blank">
+               <img alt="li.png" src="img/linkedin.png" width="50" height="50">
+               </a>
+               <!--<a href="https://www.facebook.com/Go-Design-Pro-1002827753240214/?modal=admin_todo_tour" target="_blank">
+               <img alt="fb.png" src="img/facebook.png" width="50" height="50">
+               </a>-->
+               <a href="https://www.twitter.com/godesignpro1" target="_blank">
+               <img alt="twit.png" src="img/twitter.png" width="50" height="50">
+               </a>
+               <a href="https://www.github.com/controllz" target="_blank">
+               <img alt="git.png" src="img/github.png" width="50" height="50">
+               </a>
+               <!--<a href="https://godesignpro.wordpress.com/" target="_blank">
+               <img alt="wp.png" src="img/wordpress.png" width="50" height="50">
+               </a>-->
+               <a href="https://codepen.io/controllz/" target="_blank">
+               <img alt="cp.png" src="img/codepen.png" width="50" height="50">
+               </a>
+            </div>
                <div class="col l4 s12">
                   <div class="logo">
+                      
                      <!--RESUME-->
                      <h4>DOWNLOAD MY RESUME!</h4>
                      <a download class= "waves-effect waves-light btn-large pulse orange modal-trigger"  href="resume.pdf">My Resume</a>
@@ -785,7 +865,7 @@
                </div>
                <div class="col l4 s12">
                   <div class="logo">
-                     <h4>SEND ME AN<br> EMAIL</h4>
+                     <h4>SEND ME AN <br>EMAIL</h4>
                      <div class="container">
                         <a class="waves-effect waves-light btn-large pulse orange modal-trigger" href="#modal1">Contact</a>
                      </div>
@@ -815,34 +895,16 @@
                </div>
             </div>
          </div>
-         <h4 class="amber lighten-1 black-text">LET'S CONNECT</h4>
-         <!--social-->
-         <div class="social-container">
-            <div id="social">
-               <a href="https://www.linkedin.com/in/jasonrbutts/" target="_blank">
-               <img alt="li.png" src="img/linkedin.png" width="50" height="50">
-               </a>
-               <a href="https://www.facebook.com/Go-Design-Pro-1002827753240214/?modal=admin_todo_tour" target="_blank">
-               <img alt="fb.png" src="img/facebook.png" width="50" height="50">
-               </a>
-               <a href="https://www.twitter.com/godesignpro1" target="_blank">
-               <img alt="twit.png" src="img/twitter.png" width="50" height="50">
-               </a>
-               <a href="https://www.github.com/controllz" target="_blank">
-               <img alt="git.png" src="img/github.png" width="50" height="50">
-               </a>
-               <a href="https://godesignpro.wordpress.com/" target="_blank">
-               <img alt="wp.png" src="img/wordpress.png" width="50" height="50">
-               </a>
-               <a href="https://codepen.io/controllz/" target="_blank">
-               <img alt="cp.png" src="img/codepen.png" width="50" height="50">
-               </a>
-            </div>
-         </div>
+         
+           
          <div class="footer-copyright">
+             
             <div class="container">
+                
                <div class="logo">
+                   
                   <div id="counter">
+                      
                      <?php include( 'counter.php' ); ?>
                      <br>
                      <?php
@@ -877,8 +939,6 @@
                           // return unreliable ip since all else failed
                            return $_SERVER['REMOTE_ADDR'];
                          }
-                        
-                        
                         ?>
                   </div>
                   <br>
@@ -905,7 +965,7 @@
          | (_, )| (_) || |_) || (_( )( )_) || || (_, )| |`\ || |    | |\ \ | (_) | _ | (_( )| (_) || | | |
          (____/'(_____)(____/'(____/'`\____)(_)(____/'(_) (_)(_)    (_) (_)(_____)(_)(____/'(_____)(_) (_)
                                                                                                          
-                                                                                                         
+                                                                                                    
          -->
    </body>
 </html>

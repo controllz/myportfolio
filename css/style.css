@@ -211,14 +211,15 @@ p {
 h1 {
 font-family: 'Federo', sans-serif;
 font-size: 4em;
-	text-align: center;
-	color:   #ffca28
-
-;
+text-align: center;
+color:#ffca28;
 }
 
 h2 {
-
+font-family: 'Federo', sans-serif;
+font-size: 3em;
+text-align: center;
+color:#ffca28;
 }
 
 h3 {
@@ -227,7 +228,7 @@ font-family: 'Cute Font', cursive;
 font-size: 2em;
 }
 
-h4{
+h4 {
 font-family: 'Cute Font', cursive;
 
 color:#ffca28;	
@@ -236,6 +237,8 @@ font-size: 40px;
 }
 
 h5 {
+font-family: 'Special Elite', cursive;
+font-size: 20px;
 color: white;
 }
 
@@ -306,9 +309,7 @@ nav .brand-logo {
   font-size: inherit;
 }
 
-footer.page-footer {
-  margin: 0;
-}
+
 
 /*SCROLL ANIMATION*/
 
@@ -899,26 +900,9 @@ body {
 	
 }
 
-
-.social-container {
-	margin: auto;
-	text-align: center;
-	
+#social {
+  text-align: center;
+  margin: 0 auto;
 }
 
 
-#social {
- margin: auto;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	padding-left:10px;
-	padding-right:10px;
- background-color: #ffca28;
- width: 480px;
- height: 75px;
-	border-style: inset;
-	border-width: 5px;
-	border-color: black;
-	border-radius: 10px;
-	text-align: center;
-}	
